@@ -1,9 +1,11 @@
 .DS_Store
+.dart_tool/
 .atom/
 .idea
 .packages
 .pub/
 build/
+example/
 ios/.generated/
 packages
 pubspec.lock
